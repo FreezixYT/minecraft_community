@@ -1,7 +1,16 @@
-{
-    "date" : "30.09.2024",
-    "creator" : "Nathan",
-    "image" : "./img/creeper.png",
-    "titre" : "Les Creeper",
-    "article" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat nesciunt, accusantium porro possimus iusto qui error neque voluptatibus inventore fugit vel delectus, debitis, enim eligendi. Natus maxime illum adipisci consectetur?"
-}
+[
+    {
+        "date": "30.09.2024",
+        "creator": "Nathan",
+        "image": "./img/creeper.png",
+        "titre": "Les Creeper",
+        "article": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat nesciunt, accusantium porro possimus iusto qui error neque voluptatibus inventore fugit vel delectus, debitis, enim eligendi. Natus maxime illum adipisci consectetur?"
+    },
+    {
+        "date": "01.10.2024",
+        "creator": "Nathan",
+        "image": "./img/zombie.png",
+        "titre": "Les Zombies",
+        "article": "Les zombies sont des créatures qui errent dans la nuit, cherchant à attaquer les joueurs. Ils brûlent au soleil sauf s'ils sont dans l'eau."
+    }
+]
