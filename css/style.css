@@ -1,0 +1,32 @@
+h1
+{
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+
+input
+{
+    color: black;
+}
+
+.inpute {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    width: 20%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px 10px 10px 10px;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
