@@ -8,8 +8,9 @@
     <link rel="stylesheet" href="css/assets.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-<?php include 'design/header.html';?>
+    <?php include 'design/header.html'; ?>
     <main>
         <h1>Minecraft Community</h1>
         <form method="post" action="">
@@ -26,7 +27,7 @@
 
 
 
-    <?php include 'design/footer.html';?>
+    <?php include 'design/footer.html'; ?>
 </body>
 
 </html>

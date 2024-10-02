@@ -30,3 +30,27 @@ form
     align-items: center;
 }
 
+.zone-article
+{
+    display: flex;
+    justify-content: center;
+}
+
+.article
+{
+    background-color: rgb(100, 107, 107);
+    text-align: center;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    border-radius: 10px;
+    border-color: rgb(165, 165, 165);
+}
+
+.more
+{
+    background-color: rgb(100, 107, 107);
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px;
+    margin-left: 50vh;
+}
