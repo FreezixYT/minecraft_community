@@ -1,0 +1,17 @@
+[
+    {
+        "pseudo" : "freezix",
+        "date" : "04.10.2024",
+        "email": "nathanpache@icloud.com",
+        "motDePasse": "1234",
+        "isAdmin" : true
+    },
+    {
+        "pseudo" : "snoopyrouette",
+        "date" : "04.10.2024",
+        "email": "snoopy@icloud.com",
+        "motDePasse": "1235",
+        "isAdmin" : false
+    }
+
+]

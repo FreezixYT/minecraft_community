@@ -1,3 +1,8 @@
+*
+{
+    color: white;
+}
+
 h1
 {
     margin-top: 10%;
@@ -48,9 +53,13 @@ form
 
 .more
 {
+    margin-top: 30px;
     background-color: rgb(100, 107, 107);
     text-align: center;
     border-radius: 10px;
-    padding: 30px;
-    margin-left: 50vh;
+    padding: 4%;
+    margin-left: 45%;
+    margin-right: 48%;
 }
+
+
