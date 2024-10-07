@@ -28,7 +28,7 @@ echo "</pre>";
             <?php
             foreach ($data1 as $article) {
                 echo "<div class='article'>";
-                echo $article["titre"];
+                echo "<h2>" . $article['titre'] . "</h2>";
                 echo "<br>";
                 echo $article["date"];
                 echo "<br>";
